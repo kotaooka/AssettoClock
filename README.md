@@ -18,7 +18,7 @@ AssettoCorsaのゲーム画面の左上に現在の時刻を表示するPython�
 2. ダウンロードしたファイル `AssettoClock.zip`を解凍します。
 3. Assetto Corsaのインストールフォルダ内の `apps/python` ディレクトリに、解凍したフォルダ `AssettoClock` をコピーします。
 4. コンテンツマネージャーでアプリ設定からAssettoClockを有効にします。
-5. ゲーム内のサイドバーから`AssettoClock`をクリックし、好きな位置に配置します。
+5. ゲーム内のサイドバーから`AssettoClock`をクリックし、ゲーム画面に表示します。
 
 
 ## 注意事項
