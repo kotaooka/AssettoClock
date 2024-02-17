@@ -42,3 +42,6 @@ def acShutdown():
         ac.log("Shutting down AssettoClock")
         ac.removeWidget(app_window)
         app_window = 0
+        ac.log("Shutting down AssettoClock")
+        ac.removeWidget(app_window)
+        app_window = 0
