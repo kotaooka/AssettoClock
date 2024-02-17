@@ -1,6 +1,6 @@
 # AssettoClock
 
-Assetto Corsaのゲーム画面の左上に現在の時刻を表示するPythonスクリプトです。
+AssettoCorsaのゲーム画面の左上に現在の時刻を表示するPythonスクリプトです。
 
 これでゲームのやりすぎを防止できるかもしれません。
 
