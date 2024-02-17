@@ -1,15 +1,18 @@
 # AssettoClock
 
-このPythonスクリプトは、Assetto Corsaの画面の左上に小さく現在の時刻を表示するためのものです。
+Assetto Corsaのゲーム画面の左上に現在の時刻を表示するPythonスクリプトです。
 
-あなたのゲームのやりすぎを防止できるかもしれません。
+これでゲームのやりすぎを防止できるかもしれません。
 
-![スクリーンショット 2024-02-17 175509](https://github.com/kotaooka/AssettoClock/assets/115392256/93a86d5a-46dc-4c3c-8cc2-064c64996ac5)
+## ゲーム内で有効にした状態
+![スクリーンショット 2024-02-17 180707](https://github.com/kotaooka/AssettoClock/assets/115392256/5e58a0f8-ce9d-414a-812f-3008d61f20c7)
 
-![スクリーンショット 2024-02-17 175524](https://github.com/kotaooka/AssettoClock/assets/115392256/9011cba7-467d-4b58-a27b-4ccd3f2d96b8)
+![スクリーンショット 2024-02-17 180707](https://github.com/kotaooka/AssettoClock/assets/115392256/e3120b44-dff8-456b-bce1-b333f0b1a3cd)
+
 
 
 ## 導入方法
+
 
 1. GithubのリリースからZIPファイルをダウンロードします。
 2. ダウンロードしたファイル `AssettoClock.zip`を解凍します。
