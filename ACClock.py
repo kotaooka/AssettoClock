@@ -4,7 +4,7 @@ import time
 
 # ウィジェットの初期化
 def acMain(ac_version):
-    app_window = ac.newApp("Time Widget")
+    app_window = ac.newApp("ACClock")
     ac.setSize(app_window, 200, 50)
     ac.drawBorder(app_window, 0)
     ac.setBackgroundOpacity(app_window, 0)
@@ -17,7 +17,7 @@ def acMain(ac_version):
     # 毎フレーム更新
     ac.addRenderCallback(app_window, update_time)
     
-    return "Time Widget"
+    return "ACClock"
 
 # 時刻を更新するコールバック関数
 def update_time(delta_time):
